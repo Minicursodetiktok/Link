@@ -50,7 +50,7 @@ html{
 }
 
 .home{
-    background-image: url(https://image.canva.com/nKPTPaaJx03hO8XGtTim0w%3D%3D/MnJC5e1AQ0MPkOSlIdwgFA%3D%3D.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH25PN7VSL%2F20230205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230205T005713Z&X-Amz-Expires=65040&X-Amz-Signature=e59d2086e558769c8a12959a068606a72e2c7388199e61f8322c60b0c5f0e1a7&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2005%20Feb%202023%2019%3A01%3A13%20GMT);
+    background-image: url(P.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -121,7 +121,7 @@ video{
 .sectionTree h1{color: yellow; text-transform: uppercase; font-weight: 500; font-family:'Anton', sans-serif ; padding-bottom: 15px; padding-top: 15px;}
 
 .sectionTree{
-    background-image:url(https://image.canva.com/Mrr8I8w8DXILgZTiZDrGQw%3D%3D/k1S4Ar3RskvXPRPQ7f-ZWQ%3D%3D.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH25PN7VSL%2F20230205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230205T040443Z&X-Amz-Expires=54625&X-Amz-Signature=1287cfef30c332b2dad871ce7c184dc98025f6cac6631f299b5ffa67449da761&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2005%20Feb%202023%2019%3A15%3A08%20GMT) ;
+    background-image:url(segundo.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
